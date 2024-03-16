@@ -13,7 +13,6 @@ function Container() {
           description="Funny movies"
           movie1={{ movieTitle: "Batman Returns", year: 2012 }}
           movie2={{ movieTitle: "The Joker", year: 2010 }}
-          year2={2013}
         />
       </div>
 
